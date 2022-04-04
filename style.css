@@ -1,0 +1,29 @@
+h1{
+    background: rgb(207, 135, 246);
+    color: aqua;
+}
+
+h2{
+    background: rgb(217, 131, 131);
+}
+
+a{
+    color: lavender;
+}
+
+p{
+    background: blanchedalmond;
+    color: rgb(252, 36, 221);
+}
+
+ul{
+    background: darksalmon;
+}
+
+li{
+    color: mediumblue;
+}
+
+img{
+    width: 350px;
+}
